@@ -1,3 +1,4 @@
+git clone https://github.com/Coco10023/Mauricio.git
 # Min uppgift
 Detta är en README skriven i **Markdown**.
 
@@ -5,4 +6,3 @@ Detta är en README skriven i **Markdown**.
 - Öppna projektet
 - Kör koden
 
-- git clone https://github.com/Coco10023/Mauricio.git 
