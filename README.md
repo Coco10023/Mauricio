@@ -1,5 +1,3 @@
-git clone https://github.com/Coco10023/Mauricio.git
-
 # Hej, jag heter Francisco Mauricio De Leon Gonzalez! 👋
 
 Jag studerar webbutveckling och lär mig Git och GitHub.  
